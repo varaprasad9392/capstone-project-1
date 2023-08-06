@@ -1,0 +1,472 @@
+#d{
+	height: 2000px;
+	width: 100%;
+	background-color: pink;
+}
+
+
+
+
+
+
+
+
+#d1{
+	height: 800px;
+	width: 100%;
+	background-image: url("images_cap/main_doc1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+#p1{
+	padding-left: 10px;
+	padding-top: 300px;
+	color: white;
+	font-size: 30px;
+}
+#p2{
+	padding-left: 10px;
+	color: white;
+}
+#b1{
+	background-color: white;
+	color: skyblue;
+	border-color: white;
+	border-radius: 50px;
+	padding: 10px;
+	margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+#d2{
+	height: 350px;
+	width: 100%;
+	background-color: white;
+}
+#h1{
+	padding-top: 30px;
+}
+#as1{
+	width: 30%;
+  	padding: 30px;
+  	padding-top: 20px;
+  	margin-left: 15px;
+  	text-align: justify;
+  	background-color: white;
+}
+#b2{
+	background-color: skyblue;
+	border-color: skyblue;
+	color: white;
+	border-radius: 50px;
+	padding: 10px;
+	margin-top: 5px;
+	width: 200px;
+}
+
+
+
+
+
+
+
+
+#d3{
+	width: 100%;
+	height: 400px;
+	background-color: red;
+}
+#d31{
+	width: 33.33%;
+	height: 400px;
+	background-image: url("images_cap/doc_op2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+}
+#d32{
+	width: 33.33%;
+	height: 400px;
+	background-color: skyblue;
+	float: left;
+}
+#i1{
+	font-size: 40px;
+	margin-top: 50px;
+	/*margin-left: 90px;*/
+}
+#p2{
+	color: white;
+	font-family: sans-serif;
+	margin-left: 10px;
+	font-size: 30px;
+}
+#as2{
+	width: 400px;
+	height: 100px;
+  	padding-right: 25px;
+  	padding-left: 25px;
+  	padding-bottom: 25px;
+  	text-align: justify;
+  	background-color: skyblue;
+  	color: white;
+  	font-family: sans-serif;
+}
+#b3{
+	background-color: white;
+	color: black;
+	border-color: white;
+	border-radius: 50px;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	margin-top: 25px;
+	width: 150px; 
+}
+#d33{
+	width: 33.33%;
+	height: 400px;
+	background-image: url("images_cap/doc_inj2.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	float: left;
+}
+
+
+
+
+
+
+
+
+#d4{
+	height: 170px;
+	width: 100%;
+	background-color: white;
+}
+#p3{
+	color: black;
+	font-family: sans-serif;
+	padding-top: 10px;
+	font-size: 50px;
+}
+#p4{
+	color: black;
+}
+
+
+
+
+
+#d5{
+	height: 700px;
+	width: 100%;
+	background-color: yellow;
+}
+#d51{
+	height: 700px;
+	width: 30%;
+	background-color: white;
+	float: left;
+}
+#as3{
+	width: 300px;
+	height: 150px;
+	direction: rtl;
+  	padding-right: 25px;
+  	padding-left: 25px;
+  	padding-bottom: 25px;
+  	text-align: justify;
+  	background-color: white;
+  	color: black;
+  	font-family: sans-serif;
+  	margin-top: 20px;
+  	padding-top: 25px;
+  	float: right;
+}
+#d52{
+	height: 700px;
+	width: 40%;
+	background-image: url("images_cap/sin_doc1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+}
+#d53{
+	height: 700px;
+	width: 30%;
+	background-color: white;
+	float: right;
+}
+#as4{
+	width: 300px;
+	height: 150px;
+  	padding-right: 25px;
+  	padding-left: 25px;
+  	padding-bottom: 25px;
+  	text-align: justify;
+  	background-color: white;
+  	color: black;
+  	font-family: sans-serif;
+  	margin-top: 20px;
+  	padding-top: 25px;
+  	float: left;
+}
+
+
+
+
+
+
+
+#d6{
+	height: 330px;
+	width: 100%;
+	background-color: red;
+}
+#d61{
+	height: 330px;
+	width: 50%;
+	background-color: pink;
+	float: left;
+}
+#d62{
+	height: 330px;
+	width: 50%;
+	background-color: yellow;
+	float: right;
+}
+#d611{
+	height: 330px;
+	width: 50%;
+	background-color: #008ae6;
+	float: left;
+}
+#d612{
+	height: 330px;
+	width: 50%;
+	background-color: #1aa3ff;
+	float: right;
+}
+#d621{
+	height: 330px;
+	width: 50%;
+	background-color: #4db8ff;
+	float: left;
+}
+#d622{
+	height: 330px;
+	width: 50%;
+	background-color: #80ccff;
+	float: right;
+}
+.h3{
+	margin-top: 70px;
+	float: left;
+	color: white;
+	margin-left: 10px;
+	font-family: sans-serif;
+}
+.p6{
+	margin-top: 10px;
+	float: left;
+	text-align: justify;
+	color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: sans-serif;
+}
+
+
+
+
+
+
+#d7{
+	height: 700px;
+	width: 100%;
+	background-color: white;
+}
+#im1{
+	height: 250px;
+	width: 450px;
+	position: relative;
+	top: 50px;
+	float: left;
+	box-shadow: 5px 2px 5px 5px skyblue;
+}
+#im2{
+	height: 250px;
+	width: 450px;
+	position: relative;
+	top: 380px;
+	right: 450px;
+	float: left;
+	box-shadow: 5px 2px 5px 5px skyblue;
+}
+#im3{
+	height: 250px;
+	width: 450px;
+	position: relative;
+	top: 50px;
+	float: right;
+	box-shadow: 1px 6px 5px 4px skyblue;
+}
+#im4{
+	height: 250px;
+	width: 450px;
+	position: relative;
+	top: 120px;
+	left: 4px;
+	float: right;
+
+	box-shadow: 2px 6px 5px 4px skyblue;
+}
+
+
+
+
+
+
+
+
+
+
+#d8{
+	height: 450px;
+	width: 100%;
+	background-color: grey;
+}
+#d81{
+	height: 450px;
+	width: 50%;
+	background-image: url("images_cap/doc_lab1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	float: left;
+}
+#d82{
+	height: 450px;
+	width: 50%;
+	background-color: #4db8ff;
+	float: right;
+}
+#p5{
+	color: white;
+	font-family: sans-serif;
+	font-size: 40px;
+	padding-top: 10px;
+}
+#p7{
+	color: white;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+#l1{
+	width: 400px;
+	height: 30px;
+	border-radius: 0px;
+	border-color: white;
+}
+#l2{
+	width: 400px;
+	height: 50px;
+	border-radius: 0px;
+	border-color: white;
+}
+#bb2{
+	width: 130px;
+	height: 40px;
+	border-radius: 30px;
+	border-color: white;
+	background-color: white;
+	color: black;
+	margin-top: 30px;
+	margin-left: 170px;
+}
+#bld{
+	size: 10px;
+}
+
+
+
+
+
+
+
+#d9{
+	height: 300px;
+	width: 100%;
+	background-color: white;
+}
+#d91{
+	height: 300px;
+	width: 50%;
+	background-color: white;
+	float: left;
+}
+#d911{
+	height: 300px;
+	width: 50%;
+	background-color: white;
+	float: left;
+}
+#d912{
+	height: 300px;
+	width: 50%;
+	background-color: white;
+	float: right;
+}
+#d92{
+	height: 300px;
+	width: 50%;
+	background-color: white;
+	float: right;
+}
+#d921{
+	height: 300px;
+	width: 50%;
+	background-color: white;
+	float: left;
+}
+#d922{
+	height: 300px;
+	width: 50%;
+	background-color: white;
+	float: right;
+}
+
+.p8{
+	margin-top: 50px;
+	margin-left: 30px;
+	font-size: 30px;
+}
+.p9{
+	margin-left: 30px;
+	font-size: 20px;
+}
+.p10{
+	margin-left: 10px;
+}
+#divl{
+	height: 35px;
+	width: 300px;
+	background-color: white;
+	margin-top: 5px;
+	margin-left: 35px;
+}
+#img1{
+	font-size: 29=0px;
+	margin-right: 10px;
+}
